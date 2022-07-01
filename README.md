@@ -55,7 +55,7 @@
     </p>
     <h3>Frameworks</h3>
     <p>
-      <img src="https://img.shields.io/badge/React Native-118CBF?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+      <img src="https://img.shields.io/badge/React-118CBF?style=for-the-badge&logo=react&logoColor=white" alt="React">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
     </p>
