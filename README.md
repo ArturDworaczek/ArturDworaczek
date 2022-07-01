@@ -12,7 +12,7 @@
   </div>
 
   <div>
-    <h2>Past Experience</h2>
+    <h2>Prior Experience</h2>
     <h3>Applications</h3>
     <p>
       <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
