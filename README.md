@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://Dworaczek.uk/"><img src="https://i.imgur.com/vChjS9g.png" alt="Dworaczek Logo" width="60%"></a>
 
-  <div style="padding: 100px;"> 
+  <div> 
     <p>
       I'm Artur, a freelance Game Developer, full-time Level 4 Software Developer Apprentice @ Old Mill that loves to create, innovate, and improve. 
       </br></br>
@@ -21,6 +21,10 @@
       <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
       <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL">
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+      </br>
+      <img src="https://img.shields.io/badge/ISTA-0061A8?style=for-the-badge&logo=bmw&logoColor=white" alt="BMW ISTA">
+      <img src="https://img.shields.io/badge/EDIABAS-003A72?style=for-the-badge&logo=bmw&logoColor=white" alt="BMW EDIABAS">
+      <img src="https://img.shields.io/badge/ESYS-D62517?style=for-the-badge&logo=bmw&logoColor=white" alt="BMW E-Sys">
     </p>
     <h3>Services</h3>
     <p>
