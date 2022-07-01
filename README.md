@@ -3,7 +3,9 @@
 
   <div> 
     <p>
-      I'm Artur, a freelance Game Developer, full-time Level 4 Software Developer Apprentice @ Old Mill that loves to create, innovate, and improve. In my spare time I       love to work on BMWs, performing mechanical or electronical - improvements, modifications, or maintanance.
+      I'm Artur, a freelance Game Developer, full-time Level 4 Software Developer Apprentice, that loves to create, innovate, and improve. 
+      </br>
+      In my spare time I love to work on cars (especially BMWs), performing mechanical or electronical - improvements, modifications, or maintanance.
       </br></br>
       <strong>My Website / Portfolio</strong>
     </p>
