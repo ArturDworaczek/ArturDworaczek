@@ -31,7 +31,7 @@
     </p>
     <h3>Services</h3>
     <p>
-      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white" alt="Steamworks">
       <img src="https://img.shields.io/badge/Epic Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
       </br>
