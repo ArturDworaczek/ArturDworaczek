@@ -7,8 +7,8 @@
       </br>
       In my spare time I love to work on cars (especially BMWs), performing mechanical or electronical - improvements, modifications, or maintanance.
       </br></br>
-      <strong>My Website / Portfolio</strong>
     </p>
+    <p><a href="https://Dworaczek.uk/"><strong>My Website</strong></a></p>
     
     https://Dworaczek.uk/
   </div>
