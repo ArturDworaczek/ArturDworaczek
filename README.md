@@ -32,16 +32,11 @@
       <img src="https://img.shields.io/badge/EDIABAS-003A72?style=for-the-badge&logo=bmw&logoColor=white" alt="BMW EDIABAS">
       <img src="https://img.shields.io/badge/ESYS-D62517?style=for-the-badge&logo=bmw&logoColor=white" alt="BMW E-Sys">
     </p>
-    <h3>Services</h3>
+    <h3>Frameworks</h3>
     <p>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white" alt="Steamworks">
-      <img src="https://img.shields.io/badge/Epic Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
-      <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
-      </br>
-      <img src="https://img.shields.io/badge/Microsoft Power Platform-0066FF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Power Platform">
-      <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
-      <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Web Services">
+      <img src="https://img.shields.io/badge/React-118CBF?style=for-the-badge&logo=react&logoColor=white" alt="React">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
     </p>
     <h3>Languages</h3>
     <p>
@@ -57,11 +52,16 @@
       <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/AutoHotkey-4FBB4F?style=for-the-badge&logo=autohotkey&logoColor=white" alt="AHK">
     </p>
-    <h3>Frameworks</h3>
+    <h3>Services</h3>
     <p>
-      <img src="https://img.shields.io/badge/React-118CBF?style=for-the-badge&logo=react&logoColor=white" alt="React">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white" alt="Steamworks">
+      <img src="https://img.shields.io/badge/Epic Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
+      </br>
+      <img src="https://img.shields.io/badge/Microsoft Power Platform-0066FF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Power Platform">
+      <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+      <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Web Services">
     </p>
   </div>
   
