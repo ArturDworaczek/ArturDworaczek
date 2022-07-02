@@ -64,4 +64,10 @@
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
     </p>
   </div>
+  
+  <div>
+    <sub>
+      </br></br>If you have any enquiries or would like to request my CV please send an email to: <a href="mailto:enquire@dworaczek.uk">enquire@dworaczek.uk</a>
+    </sub>
+  </div>
 </div>
