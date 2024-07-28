@@ -3,10 +3,18 @@
 
   <div> 
     <p>
-      I'm Artur, a freelance Game Developer, full-time Level 4 Software Developer Apprentice, that loves to create, innovate, and improve. 
-      </br>
+      I'm Artur, a freelance Game Developer, full-time Frontend Developer, that loves to create, innovate, and improve. 
+      </br></br>
       In my spare time I love to work on cars (especially BMWs), performing mechanical or electronical - improvements, modifications, or maintanance.
       </br></br>
+      At Finova, we are currently enhancing the user interface and experience, leveraging my expertise in software infrastructure and frontend development. 
+      The focus is on creating intuitive and responsive environments that cater to our clientele's needs, ensuring they have a seamless interaction with our digital platforms.
+      </br></br>
+      Previously, at Old Mill, we revolutionised data management and reporting with Azure technologies, delivering dynamic web solutions and pioneering task automation. 
+      This journey solidified my proficiency in Azure and other Microsoft products, underscoring a relentless pursuit of technological excellence and client satisfaction.
+      </br></br>
+      My journey as a Marketplace Seller is marked by the success of my Unreal Engine plugins, with a remarkable 250,000 downloads—a testament to our dedication to quality and customer satisfaction. 
+      This achievement highlights my expertise in creating custom solutions that resonate with users and contribute significantly to the game development community.
     </p>
     <p><a href="https://Dworaczek.uk/"><strong>My Website</strong></a></p>
     
@@ -34,8 +42,9 @@
     </p>
     <h3>Frameworks</h3>
     <p>
-      <img src="https://img.shields.io/badge/React-118CBF?style=for-the-badge&logo=react&logoColor=white" alt="React">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+      <img src="https://img.shields.io/badge/Laravel-D62517?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/React-118CBF?style=for-the-badge&logo=react&logoColor=white" alt="React">
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
     </p>
     <h3>Languages</h3>
