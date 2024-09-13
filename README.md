@@ -16,9 +16,6 @@
       My journey as a Marketplace Seller is marked by the success of my Unreal Engine plugins, with a remarkable 250,000 downloads—a testament to our dedication to quality and customer satisfaction. 
       This achievement highlights my expertise in creating custom solutions that resonate with users and contribute significantly to the game development community.
     </p>
-    <p><a href="https://Dworaczek.uk/"><strong>My Website</strong></a></p>
-    
-    https://Dworaczek.uk/
   </div>
 
   <div>
