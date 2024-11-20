@@ -1,23 +1,6 @@
 <div align="center">
   <a href="https://Dworaczek.uk/"><img src="https://i.imgur.com/vChjS9g.png" alt="Dworaczek Logo" width="60%"></a>
 
-  <div> 
-    <p>
-      I'm Artur, a freelance Game Developer, full-time Frontend Developer, that loves to create, innovate, and improve. 
-      </br></br>
-      In my spare time I love to work on cars (especially BMWs), performing mechanical or electronical - improvements, modifications, or maintanance.
-      </br></br>
-      At Finova, we are currently enhancing the user interface and experience, leveraging my expertise in software infrastructure and frontend development. 
-      The focus is on creating intuitive and responsive environments that cater to our clientele's needs, ensuring they have a seamless interaction with our digital platforms.
-      </br></br>
-      Previously, at Old Mill, we revolutionised data management and reporting with Azure technologies, delivering dynamic web solutions and pioneering task automation. 
-      This journey solidified my proficiency in Azure and other Microsoft products, underscoring a relentless pursuit of technological excellence and client satisfaction.
-      </br></br>
-      My journey as a Marketplace Seller is marked by the success of my Unreal Engine plugins, with a remarkable 250,000 downloads—a testament to our dedication to quality and customer satisfaction. 
-      This achievement highlights my expertise in creating custom solutions that resonate with users and contribute significantly to the game development community.
-    </p>
-  </div>
-
   <div>
     <h2>Prior Experience</h2>
     <h3>Applications</h3>
