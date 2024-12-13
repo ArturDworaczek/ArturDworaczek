@@ -1,6 +1,4 @@
-<div align="center">
-  <a href="https://Dworaczek.uk/"><img src="https://i.imgur.com/vChjS9g.png" alt="Dworaczek Logo" width="60%"></a>
-
+<div>
   <div>
     <h2>Prior Experience</h2>
     <h3>Applications</h3>
